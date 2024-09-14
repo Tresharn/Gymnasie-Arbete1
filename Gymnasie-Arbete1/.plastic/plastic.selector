@@ -1,0 +1,4 @@
+repository "Gymnasie-Arbete1@Tresharn@cloud"
+  path "/"
+    br "/main"
+    co "/main"
